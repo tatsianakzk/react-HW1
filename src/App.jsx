@@ -14,6 +14,7 @@ function App() {
         <CatImage />
         <CatImage />
         <CatImage />
+        <CatImage />
       </div>
       <Footer />
     </div >
